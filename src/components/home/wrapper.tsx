@@ -25,7 +25,7 @@ export default function HomeWrapper() {
                   </span>
                   <p className="mt-2 text-2xl">{WebLines.Home.IAmLine}</p>
                 </h2>
-                <p className="mt-4 text-center text-3xl text-green-400">
+                <p className="mt-4 text-center text-3xl text-black-400">
                   𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 ✓
                 </p>
               </div>
