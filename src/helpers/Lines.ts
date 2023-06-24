@@ -2,10 +2,10 @@ const WebLines = {
 
     Home:{
         HellowLines: 'Hello There 👋,',//Text for Home Fisrt line
-        IAmLine : 'I\' Vishal'
+        IAmLine : 'I\' Aniket'
     },
     Introduction : {
-        Para : 'A Passionate Developer ✔ who Love Building Web,Scripts And Projects with JavaScript, Python, Java, Nodejs, Express.js, EJS and much more etc..'
+        Para : 'A Passionate Developer ✔ who Love Building Web,making Discord Bots ,Scripts And Projects with JavaScript, Python, Nodejs, Express.js, EJS and much more etc..'
     }, 
     Tables :
     {
@@ -21,7 +21,7 @@ const WebLines = {
         CheckItOut : 'Check It Out',
         Projects : 'Projects'
     },
-    Footer : '© 2023 Vishal Pvt Ltd All rights reserved.'
+    Footer : '© 2023 Aniket Pvt Ltd All rights reserved.'
 }
 
 export default WebLines;
