@@ -43,7 +43,7 @@ export default function Navbar() {
                   className="left-0 rounded-full w-[40px] md:w-[50px]"
                   alt="Vishal"
                 />
-                {/* <h2 className="text-2xl font-bold text-white">Vishal</h2> */}
+                {/* <h2 className="text-2xl font-bold text-white">Aniket</h2> */}
               </a>
               <div className="md:hidden">
                 <button
